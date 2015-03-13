@@ -1,0 +1,1 @@
+This project aims to be able to detect and track people (for example, doctors in a hospital) using strategically placed wireless nodes.
